@@ -1,0 +1,6 @@
+-r requirements.txt
+flake8==2.1.0
+pep8==1.4.6
+pyflakes==0.7.3
+tox==1.6.1
+virtualenv==1.10.1
